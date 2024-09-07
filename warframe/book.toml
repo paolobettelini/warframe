@@ -1,0 +1,9 @@
+[book]
+authors = ["paolobettelini"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Warframe"
+
+[output.html]
+additional-css = ["theme.css"]

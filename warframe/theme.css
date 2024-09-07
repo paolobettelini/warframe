@@ -1,0 +1,31 @@
+.amber {
+    content:url("/media/amber_shard.webp");    
+}
+
+.azure {
+    content:url("/media/azure_shard.webp");    
+}
+
+.crimson {
+    content:url("/media/crimson_shard.webp");    
+}
+
+.topaz {
+    content:url("/media/topaz_shard.webp");    
+}
+
+.violet {
+    content:url("/media/violet_shard.webp");    
+}
+
+.emerald {
+    content:url("/media/emerald_shard.webp");    
+}
+
+.amber, .azure, .crimson, .topaz, .violet, .emerald {
+    width: 50px;
+}
+
+ul img.amber, ul img.azure, ul img.crimson, ul img.topaz, ul img.violet , ul img.emerald {
+    vertical-align: middle;
+}
