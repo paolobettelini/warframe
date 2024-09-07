@@ -1,25 +1,25 @@
 .amber {
-    content:url("/media/amber_shard.webp");    
+    content:url("media/amber_shard.webp");    
 }
 
 .azure {
-    content:url("/media/azure_shard.webp");    
+    content:url("media/azure_shard.webp");    
 }
 
 .crimson {
-    content:url("/media/crimson_shard.webp");    
+    content:url("media/crimson_shard.webp");    
 }
 
 .topaz {
-    content:url("/media/topaz_shard.webp");    
+    content:url("media/topaz_shard.webp");    
 }
 
 .violet {
-    content:url("/media/violet_shard.webp");    
+    content:url("media/violet_shard.webp");    
 }
 
 .emerald {
-    content:url("/media/emerald_shard.webp");    
+    content:url("media/emerald_shard.webp");    
 }
 
 .amber, .azure, .crimson, .topaz, .violet, .emerald {
